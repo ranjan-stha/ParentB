@@ -1,0 +1,3 @@
+[submodule "submod/ParentA"]
+	path = submod/ParentA
+	url = git@github.com:ranjan-stha/ParentA.git
